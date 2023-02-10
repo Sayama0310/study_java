@@ -1,7 +1,3 @@
-import java.util.List;
-
-import javax.swing.undo.StateEdit;
-
 public class combination {
     public static void main(String[] args) {
         String[] list = { "A", "B", "C", "D", "E", "F" };
